@@ -1,6 +1,6 @@
 # Portfolio
 **O mnie:**
-  Nazywam się Aleksandra Dziuba-Szczepańska jestem z wykształcenia pedagogiem
+  * Nazywam się Aleksandra Dziuba-Szczepańska jestem z wykształcenia pedagogiem
   z zamiłowaniem do testowania, gdzie staram się odnaleźć swoje miejsce.
   Póki co z doświadczeniem stażysty/praktykanta dla podmiotu realizującego zlecenia dla grupy [Sygnity.pl](https://www.sygnity.pl)
   W wolnych chwilach staram się rozwijać swoje zainteresowania testami manualnymi oraz weryfikować umijejętności nabyte 
