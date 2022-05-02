@@ -4,7 +4,7 @@
   z zamiłowaniem do testowania, gdzie staram się odnaleźć swoje miejsce.
   Póki co z doświadczeniem stażysty dla podmiotu realizującego zlecenia dla grupy z branży paliwowej.
   W wolnych chwilach staram się rozwijać swoje zainteresowania testami manualnymi oraz weryfikować umiejętności nabyte 
-  na kursach oraz zaczytane z literatury (głównie książki pisane przez innych testerów).
+  na kursach oraz zaczytane z literatury (głównie książki pisane przez innych testerów). Obecnie jeste w trakcie robienie certyfikatu istqb foundation level.
   
 **Narzędzia:**
 * Zarządzanie testami
