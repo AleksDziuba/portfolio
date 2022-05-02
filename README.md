@@ -2,9 +2,9 @@
 **O mnie:**
   * Nazywam się Aleksandra Dziuba-Szczepańska jestem z wykształcenia pedagogiem
   z zamiłowaniem do testowania, gdzie staram się odnaleźć swoje miejsce.
-  Póki co z doświadczeniem stażysty/praktykanta dla podmiotu realizującego zlecenia dla grupy [Sygnity.pl](https://www.sygnity.pl)
+  Póki co z doświadczeniem stażysty dla podmiotu realizującego zlecenia dla grupy z branży paliwowej.
   W wolnych chwilach staram się rozwijać swoje zainteresowania testami manualnymi oraz weryfikować umiejętności nabyte 
-  na kursach oraz zaczytane z literatury (głównie książki pisane przez innych testerów)
+  na kursach oraz zaczytane z literatury (głównie książki pisane przez innych testerów).
   
 **Narzędzia:**
 * Zarządzanie testami
@@ -17,12 +17,13 @@
 * System kontroli wersji
   * GIT
 * Narzędzia wspomagające testowanie
-  * Testlink
+  * Testlink, TestRail
   * Przeglądarka Chrome, Firefox
   * Notepad++
   
 
 **Kursy:**
+ * Akademia Testowania - [testuj.pl](https://testuj.pl/)
  * Podstawy testowania w praktyce: CODEME
  * Warsztaty testerskie
  * SQL od podstaw: CODEME
